@@ -114,7 +114,7 @@ html, body {
   box-sizing: border-box;
   position: relative;
 }
-h3 {
+h4 {
     text-shadow: 1px 1px 15px yellow;
 	font-size:4vw;
 	text-align:center;
