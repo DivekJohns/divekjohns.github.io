@@ -312,7 +312,7 @@ div#dockWrapper {
 
    right:0% !important; /* On mouse-over, make the elements appear as they should */
     border-radius:25px; /* Rounded corners on the top right and bottom right side */
-    box-shadow:5px 5px 10px black;
+     transform:rotateX(360deg);
 }
 
 /* The about link: 20px from the top with a green background */
