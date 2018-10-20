@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Myfont'; /*a name to be used later*/
+    src: url('BLKCHCRY.TTF'); /*URL to font*/
+}
+
+*{
+	font-family: Myfont !important;
+}
+
+body{
+
+}
+a {
+    color: black;
+    text-decoration: none;
+    animation: animateA 3s ease infinite;
+}
+
+a:hover 
+{
+     color:grey; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+.secondbody{
+
+		background-image: url("./images/back.jpg");
+		background-size: 100%;
+		background-repeat: no-repeat;
+		height: 95vh;
+		position: relative;
+		left:35%;
+		padding: 6% 1% 1% 2% !important;
+		width: 35%;
+}
+.aligncenter{
+	margin-left: 8%;
+}
+@keyframes animateA {
+    0% {color: #f7dcaf;}
+    50% {color: red;}
+      100% {color: #f7dcaf;}
+}
+@keyframes Head {
+    0% {color: #f7dcaf;}
+    25% {color: grey;}
+      50% {color: #000;}
+         50% {color: #f7dcaf;}
+}
