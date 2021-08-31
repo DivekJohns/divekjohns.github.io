@@ -1,4 +1,4 @@
-<img src="./_DSC0287.JPG"/>
+<img src="./_DSC0287.jpg"/>
  <hr></hr>
 <p align="center">
   <samp>
